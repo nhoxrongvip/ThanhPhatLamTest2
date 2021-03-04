@@ -1,0 +1,2 @@
+include ':LamTestCD'
+rootProject.name = "ThanhTest2"
